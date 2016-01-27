@@ -1,0 +1,15 @@
+git
+git checkout HEAD filename
+git reset HEAD filename
+git reset SHA (7 char max)
+git add filename1 filename2
+git add -u Met tout à jour
+git commit -m "message"
+git status
+git branch
+git branch -d branch_name (supprime)
+git clone URLDELACOPIE NOMDELACOPIE 
+git remote -v voir liste
+git fetch vérifie si y'a du changement
+git merge fusionne branch
+git push origin master -> Envoie dans la branch master en ligne.
